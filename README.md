@@ -1,18 +1,13 @@
-# medical_clinic
+# Medical clinic UI
 
-A new Flutter project.
+This is a medical clinic ui that allows patients book appointments with Doctors
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Home page
+![clinic_home](https://user-images.githubusercontent.com/80047364/180660972-4018932f-6a11-48d5-9c1f-09c4535a9161.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Book appointment page
+![clinic_appointments](https://user-images.githubusercontent.com/80047364/180660895-05b2d0cc-8a36-4df7-9254-004849a1b1b6.png)
 
 
